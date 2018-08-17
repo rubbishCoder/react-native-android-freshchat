@@ -1,8 +1,7 @@
 {
   "name": "react-native-android-freshchat",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Fresh chat for android react-native",
-  "main": "index.android.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +21,32 @@
   "bugs": {
     "url": "https://github.com/rubbishCoder/react-native-android-freshchat/issues"
   },
-  "homepage": "https://github.com/rubbishCoder/react-native-android-freshchat#readme"
+  "homepage": "https://github.com/rubbishCoder/react-native-android-freshchat#readme",
+  "_from": "git+https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git",
+  "_id": "react-native-android-library-freshchat-sdk@2.0.0",
+  "_inBundle": false,
+  "_location": "/react-native-android-library-freshchat-sdk",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-android-library-freshchat-sdk@git+https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git",
+    "name": "react-native-android-library-freshchat-sdk",
+    "escapedName": "react-native-android-library-freshchat-sdk",
+    "rawSpec": "git+https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git",
+    "saveSpec": "git+https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git",
+    "fetchSpec": "https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git#d4a8a26cb19049e07b5e94e52edf10d6e0800be3",
+  "_spec": "react-native-android-library-freshchat-sdk@git+https://github.com/pragadeesh0106/Freshchat-android-ReactNative.git",
+  "_where": "/Users/pragadeeshnatarajan/Documents/native/partner",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "peerDependencies": {
+    "react-native": ">=0.38.0"
+  },
+  "private": false
 }
