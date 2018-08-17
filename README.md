@@ -4,18 +4,18 @@ Freshchat library for React native. Currently it supports android only.
 
 1 - Install 
 ```ruby
-npm install --save react-native-android-library-freshchat-sdk
+npm install --save react-native-android-freshchat
 ```
 
 2 - In settings.gradle file 
 ```ruby
-include ':react-native-android-library-freshchat-sdk'
-project(':react-native-android-library-freshchat-sdk').projectDir = new File(settingsDir, '../node_modules/react-native-android-library-freshchat-sdk/android')
+include ':react-native-android-freshchat'
+project(':react-native-android-freshchat').projectDir = new File(settingsDir, '../node_modules/react-native-android-freshchat/android')
 ```
 
 3 - In build.gradle(app) 
 ```ruby
-compile project(':react-native-android-library-freshchat-sdk') 
+compile project(':react-native-android-freshchat') 
 compile 'com.github.freshdesk:freshchat-android:1.0.0'
 ```
 
@@ -40,7 +40,7 @@ new FreshChatReactPackage()
 
 6 - Finally import library 
 ```ruby
-import FreshChatSdk from 'react-native-android-library-freshchat-sdk'
+import FreshChatSdk from 'react-native-android-freshchat'
 ```
 
 7 - For initializing
