@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-freshchat",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Fresh chat for android react-native",
   "main": "index.android.js",
   "scripts": {
