@@ -1,0 +1,26 @@
+{
+  "name": "react-native-android-freshchat",
+  "version": "1.0.0",
+  "description": "Fresh chat for android react-native",
+  "main": "index.android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rubbishCoder@github.com/rubbishCoder/react-native-android-freshchat.git"
+  },
+  "keywords": [
+    "react-native",
+    "android",
+    "fresh",
+    "chat",
+    "freshchat"
+  ],
+  "author": "pragadeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubbishCoder/react-native-android-freshchat/issues"
+  },
+  "homepage": "https://github.com/rubbishCoder/react-native-android-freshchat#readme"
+}
