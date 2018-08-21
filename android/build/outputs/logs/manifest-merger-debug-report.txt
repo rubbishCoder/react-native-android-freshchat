@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:2:10-44
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:4:10-35
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:3:10-33
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:6:6-14:17
+	android:grantUriPermissions
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:10:10-44
+	android:authorities
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:8:10-65
+	android:exported
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:9:10-34
+	android:name
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:7:10-64
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:11:10-13:70
+	android:resource
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:13:14-67
+	android:name
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml:12:14-64
+uses-sdk
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		ADDED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/pragadeesh/Documents/native/partner/node_modules/react-native-android-freshchat/android/src/main/AndroidManifest.xml
