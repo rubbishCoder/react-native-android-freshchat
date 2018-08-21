@@ -7,8 +7,6 @@ def computeVersionName() {
     return json.version
 }
 
-def freshchatFileProviderAuthorityPrefix = '.FreshchatFileProvider'
-
 buildscript {
     repositories {
         jcenter()
@@ -34,10 +32,7 @@ android {
     }
     lintOptions {
         abortOnError false
-    }
-    manifestPlaceholders = [freshchatFileProviderAuthority: applicationId + freshchatFileProviderAuthorityPrefix]
-	resValue "string", "freshchat_file_provider_authority", applicationId + freshchatFileProviderAuthorityPrefix
-		
+    }	
 }
 
 allprojects {

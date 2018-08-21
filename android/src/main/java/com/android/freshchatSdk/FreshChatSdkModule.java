@@ -32,6 +32,8 @@ public class FreshChatSdkModule extends ReactContextBaseJavaModule {
     public void init(final String appId, final String appKey) {
 
         FreshchatConfig freshchatConfig=new FreshchatConfig(appId,appKey);
+        freshchatConfig.setCameraCaptureEnabled(true);
+        freshchatConfig.setGallerySelectionEnabled(true);
         Freshchat.getInstance(getReactApplicationContext()).init(freshchatConfig);
 
     }
@@ -40,6 +42,8 @@ public class FreshChatSdkModule extends ReactContextBaseJavaModule {
     public void initWithUser(final String appId,final String appKey, final String userId,final String firstName, final String lastName,final String email,final String phone, final String countryCode) {
 
         FreshchatConfig freshchatConfig=new FreshchatConfig(appId,appKey);
+        freshchatConfig.setCameraCaptureEnabled(true);
+        freshchatConfig.setGallerySelectionEnabled(true);
         Freshchat.getInstance(getReactApplicationContext()).init(freshchatConfig);
 
         FreshchatUser user = Freshchat.getInstance(getReactApplicationContext()).getUser();
